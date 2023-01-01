@@ -31,7 +31,7 @@ img {
   background-color: white;
   overflow: hidden;
   border-radius: 11px;
-  gap: 1.6rem;
+  gap: 1.2rem;
   align-self: center;
 }
 .hero img {
@@ -142,7 +142,7 @@ a.cancel:active {
 @media (max-width: 28rem) {
   .block-container {
     max-width: 250px;
-    margin: 10% auto auto auto;
+    margin: 5% auto auto auto;
   }
   .plan-box {
     max-width: 14.5rem;
